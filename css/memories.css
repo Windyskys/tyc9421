@@ -151,12 +151,12 @@
 @media screen and (max-aspect-ratio: 3/4){
 	.ly-box01 {
 		width:50px;
-		height: 70px;
+		height: 80px;
 		background-color:#FFF;
 		border-radius: 25px;
 		position: absolute;
 		left: 48%;
-		bottom: 40%;
+		bottom: 30%;
 		margin-bottom:50%;
 		overflow: hidden;
 		transform-origin:center bottom;
@@ -451,14 +451,14 @@
 		position:absolute;
 		width: 40%;
 		left:10%;
-		top:5%;
+		top:2%;
 	}
 	
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
-		left:15%;
-		top:60%;
+		left:12%;
+		top:58%;
 	}
 
 	.ly-txt01 p {
@@ -2744,7 +2744,7 @@
 	}
 	.ly-box82 {
 		width: 75%;
-		height: 85%;
+		height: 90%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
@@ -2893,7 +2893,7 @@
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
-	transition:all 0.5s;
+	transition:all 1.5s;
 }
 .active .ly-imgbox81{
 	opacity:1;
