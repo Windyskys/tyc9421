@@ -451,14 +451,14 @@
 		position:absolute;
 		width: 40%;
 		left:10%;
-		top:2%;
+		top:0%;
 	}
 	
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
-		left:12%;
-		top:58%;
+		left:10%;
+		top:50%;
 	}
 
 	.ly-txt01 p {
@@ -476,7 +476,7 @@
 	font-color: #000;
 	position: relative;
 	left: 5%;
-	top: 5%;
+	top: 2%;
 	opacity: 0;
 	animation:ly-stxt01_move 15s;
 	animation-delay:3s;
