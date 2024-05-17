@@ -16,7 +16,7 @@ $(function () {
     setTimeout(function () {
         $('.like').animate({
             opacity:"1",
-            top:"50%"
+            top:"60%"
         },2000);
 
     },7500);
