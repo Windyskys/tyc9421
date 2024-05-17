@@ -16,7 +16,7 @@ $(function () {
     setTimeout(function () {
         $('.like').animate({
             opacity:"1",
-            top:"60%"
+            top:"55%"
         },2000);
 
     },7500);
@@ -37,5 +37,4 @@ $(function () {
 })
 $('#dislike').click(function (event) {
 	alert("不，必须喜欢.");
-
 });
